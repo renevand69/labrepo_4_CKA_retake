@@ -3,7 +3,6 @@ vi/vim --> tab stops and stuff for editing yamls
 git --> remote git repo (push/pull), 
         this repo, private repos
 obsidian: Udemy Obsidian quickstart: https://www.udemy.com/course/obsidian-quickstart-full-notetaking-system-in-1-hour/learn/lecture/43999584#overview
-
-
-         
-  
+CKA:
+https://trainingportal.linuxfoundation.org/learn/course/certified-kubernetes-administrator-cka/
+https://killercoda.com/chadmcrowell/course/cka
