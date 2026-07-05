@@ -6,3 +6,6 @@ obsidian: Udemy Obsidian quickstart: https://www.udemy.com/course/obsidian-quick
 CKA:
 https://trainingportal.linuxfoundation.org/learn/course/certified-kubernetes-administrator-cka/
 https://killercoda.com/chadmcrowell/course/cka
+
+
+vi trick to paste yamls from internet: set paste (will preserve formatting from internet)
